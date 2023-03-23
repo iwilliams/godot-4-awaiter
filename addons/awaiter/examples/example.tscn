@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://be07pajuy7ua3"]
+
+[ext_resource type="Script" path="res://addons/awaiter/examples/example.gd" id="1_pajuv"]
+
+[node name="example" type="Node"]
+script = ExtResource("1_pajuv")
